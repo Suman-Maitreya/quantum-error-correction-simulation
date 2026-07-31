@@ -1,0 +1,67 @@
+noise_type,initial_state,noise_prob,fidelity_corrected
+Bit-Flip,|0⟩,0.001,1.0
+Bit-Flip,|0⟩,0.005,1.0
+Bit-Flip,|0⟩,0.01,1.0
+Bit-Flip,|0⟩,0.02,1.0
+Bit-Flip,|0⟩,0.05,1.0
+Bit-Flip,|0⟩,0.08,1.0
+Bit-Flip,|0⟩,0.1,1.0
+Bit-Flip,|0⟩,0.12,1.0
+Bit-Flip,|0⟩,0.15,1.0
+Bit-Flip,|0⟩,0.18,1.0
+Bit-Flip,|0⟩,0.2,1.0
+Bit-Flip,|1⟩,0.001,1.0
+Bit-Flip,|1⟩,0.005,1.0
+Bit-Flip,|1⟩,0.01,1.0
+Bit-Flip,|1⟩,0.02,1.0
+Bit-Flip,|1⟩,0.05,1.0
+Bit-Flip,|1⟩,0.08,1.0
+Bit-Flip,|1⟩,0.1,1.0
+Bit-Flip,|1⟩,0.12,1.0
+Bit-Flip,|1⟩,0.15,1.0
+Bit-Flip,|1⟩,0.18,1.0
+Bit-Flip,|1⟩,0.2,1.0
+Depolarizing,|0⟩,0.001,1.0
+Depolarizing,|0⟩,0.005,0.9999
+Depolarizing,|0⟩,0.01,0.9997
+Depolarizing,|0⟩,0.02,0.9977
+Depolarizing,|0⟩,0.05,0.9882
+Depolarizing,|0⟩,0.08,0.9645
+Depolarizing,|0⟩,0.1,0.9537
+Depolarizing,|0⟩,0.12,0.9314
+Depolarizing,|0⟩,0.15,0.9005
+Depolarizing,|0⟩,0.18,0.8753
+Depolarizing,|0⟩,0.2,0.841
+Depolarizing,|1⟩,0.001,1.0
+Depolarizing,|1⟩,0.005,0.9998
+Depolarizing,|1⟩,0.01,0.9985
+Depolarizing,|1⟩,0.02,0.9973
+Depolarizing,|1⟩,0.05,0.9851
+Depolarizing,|1⟩,0.08,0.9647
+Depolarizing,|1⟩,0.1,0.9498
+Depolarizing,|1⟩,0.12,0.9296
+Depolarizing,|1⟩,0.15,0.8971
+Depolarizing,|1⟩,0.18,0.8737
+Depolarizing,|1⟩,0.2,0.8506
+Amplitude Damping,|0⟩,0.001,1.0
+Amplitude Damping,|0⟩,0.005,1.0
+Amplitude Damping,|0⟩,0.01,0.9999
+Amplitude Damping,|0⟩,0.02,0.9988
+Amplitude Damping,|0⟩,0.05,0.9957
+Amplitude Damping,|0⟩,0.08,0.9891
+Amplitude Damping,|0⟩,0.1,0.9841
+Amplitude Damping,|0⟩,0.12,0.9806
+Amplitude Damping,|0⟩,0.15,0.967
+Amplitude Damping,|0⟩,0.18,0.9525
+Amplitude Damping,|0⟩,0.2,0.9443
+Amplitude Damping,|1⟩,0.001,0.9999
+Amplitude Damping,|1⟩,0.005,1.0
+Amplitude Damping,|1⟩,0.01,0.9997
+Amplitude Damping,|1⟩,0.02,0.9993
+Amplitude Damping,|1⟩,0.05,0.9968
+Amplitude Damping,|1⟩,0.08,0.9902
+Amplitude Damping,|1⟩,0.1,0.9839
+Amplitude Damping,|1⟩,0.12,0.9793
+Amplitude Damping,|1⟩,0.15,0.9672
+Amplitude Damping,|1⟩,0.18,0.9535
+Amplitude Damping,|1⟩,0.2,0.9436

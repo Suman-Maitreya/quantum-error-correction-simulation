@@ -1,0 +1,20 @@
+Libraries loaded!
+--- cell done ---
+Total qubits: 17
+  Data qubits:           9
+  Bit-flip ancillas:     6 (2 per block)
+  Phase-flip ancillas:   2
+  Total:                17 qubits
+
+Circuit is too large to draw nicely, but it works!
+--- cell done ---
+Noise models ready!
+--- cell done ---
+Physical error rate (no correction):  0.0252
+Logical error rate (Shor code):       0.0224
+
+Shor code HELPED! Error reduced by 11.1%
+
+Note: Shor code uses 9 qubits, so it has more places for noise to hit.
+It needs LOWER noise to outperform the bare qubit.
+--- cell done ---

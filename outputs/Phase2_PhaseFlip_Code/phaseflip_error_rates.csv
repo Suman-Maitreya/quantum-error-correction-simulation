@@ -1,0 +1,67 @@
+noise_type,initial_state,noise_prob,physical_error_rate,logical_error_rate,code_helps
+Bit-Flip,|0⟩,0.001,0.0006,0.0,True
+Bit-Flip,|0⟩,0.005,0.0055,0.0,True
+Bit-Flip,|0⟩,0.01,0.0093,0.0,True
+Bit-Flip,|0⟩,0.02,0.0215,0.0,True
+Bit-Flip,|0⟩,0.05,0.0503,0.0,True
+Bit-Flip,|0⟩,0.08,0.0789,0.0,True
+Bit-Flip,|0⟩,0.1,0.1004,0.0,True
+Bit-Flip,|0⟩,0.12,0.125,0.0,True
+Bit-Flip,|0⟩,0.15,0.1508,0.0,True
+Bit-Flip,|0⟩,0.18,0.176,0.0,True
+Bit-Flip,|0⟩,0.2,0.2092,0.0,True
+Bit-Flip,|1⟩,0.001,0.0012,0.0,True
+Bit-Flip,|1⟩,0.005,0.0041,0.0,True
+Bit-Flip,|1⟩,0.01,0.0078,0.0,True
+Bit-Flip,|1⟩,0.02,0.0203,0.0,True
+Bit-Flip,|1⟩,0.05,0.0517,0.0,True
+Bit-Flip,|1⟩,0.08,0.0824,0.0,True
+Bit-Flip,|1⟩,0.1,0.0999,0.0,True
+Bit-Flip,|1⟩,0.12,0.1187,0.0,True
+Bit-Flip,|1⟩,0.15,0.1465,0.0,True
+Bit-Flip,|1⟩,0.18,0.1834,0.0,True
+Bit-Flip,|1⟩,0.2,0.2026,0.0,True
+Depolarizing,|0⟩,0.001,0.0005,0.0014,False
+Depolarizing,|0⟩,0.005,0.0026,0.0079,False
+Depolarizing,|0⟩,0.01,0.0044,0.0157,False
+Depolarizing,|0⟩,0.02,0.0098,0.0295,False
+Depolarizing,|0⟩,0.05,0.0242,0.0738,False
+Depolarizing,|0⟩,0.08,0.0381,0.1085,False
+Depolarizing,|0⟩,0.1,0.0508,0.1341,False
+Depolarizing,|0⟩,0.12,0.0627,0.166,False
+Depolarizing,|0⟩,0.15,0.0732,0.1878,False
+Depolarizing,|0⟩,0.18,0.0947,0.2276,False
+Depolarizing,|0⟩,0.2,0.1004,0.248,False
+Depolarizing,|1⟩,0.001,0.0005,0.0011,False
+Depolarizing,|1⟩,0.005,0.0015,0.0082,False
+Depolarizing,|1⟩,0.01,0.0058,0.0169,False
+Depolarizing,|1⟩,0.02,0.0104,0.0335,False
+Depolarizing,|1⟩,0.05,0.0225,0.0726,False
+Depolarizing,|1⟩,0.08,0.0423,0.116,False
+Depolarizing,|1⟩,0.1,0.0532,0.1384,False
+Depolarizing,|1⟩,0.12,0.0625,0.1624,False
+Depolarizing,|1⟩,0.15,0.0725,0.1887,False
+Depolarizing,|1⟩,0.18,0.0907,0.2239,False
+Depolarizing,|1⟩,0.2,0.0986,0.2371,False
+Amplitude Damping,|0⟩,0.001,0.0,0.0003,False
+Amplitude Damping,|0⟩,0.005,0.0,0.0036,False
+Amplitude Damping,|0⟩,0.01,0.0,0.007,False
+Amplitude Damping,|0⟩,0.02,0.0,0.0159,False
+Amplitude Damping,|0⟩,0.05,0.0,0.0341,False
+Amplitude Damping,|0⟩,0.08,0.0,0.0577,False
+Amplitude Damping,|0⟩,0.1,0.0,0.0682,False
+Amplitude Damping,|0⟩,0.12,0.0,0.0904,False
+Amplitude Damping,|0⟩,0.15,0.0,0.1065,False
+Amplitude Damping,|0⟩,0.18,0.0,0.132,False
+Amplitude Damping,|0⟩,0.2,0.0,0.1498,False
+Amplitude Damping,|1⟩,0.001,0.0018,0.0004,True
+Amplitude Damping,|1⟩,0.005,0.0056,0.0035,True
+Amplitude Damping,|1⟩,0.01,0.0097,0.0069,True
+Amplitude Damping,|1⟩,0.02,0.019,0.0171,True
+Amplitude Damping,|1⟩,0.05,0.0513,0.0388,True
+Amplitude Damping,|1⟩,0.08,0.0772,0.0599,True
+Amplitude Damping,|1⟩,0.1,0.0991,0.0763,True
+Amplitude Damping,|1⟩,0.12,0.1198,0.0865,True
+Amplitude Damping,|1⟩,0.15,0.1432,0.1068,True
+Amplitude Damping,|1⟩,0.18,0.1856,0.1322,True
+Amplitude Damping,|1⟩,0.2,0.2023,0.1403,True

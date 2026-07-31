@@ -1,0 +1,91 @@
+noise_type,state,noise_prob,fidelity
+Bit-Flip,|0⟩,0.0,1.0
+Bit-Flip,|0⟩,0.01,0.99
+Bit-Flip,|0⟩,0.02,0.98
+Bit-Flip,|0⟩,0.05,0.95
+Bit-Flip,|0⟩,0.1,0.9
+Bit-Flip,|0⟩,0.15,0.85
+Bit-Flip,|0⟩,0.2,0.8
+Bit-Flip,|0⟩,0.3,0.7
+Bit-Flip,|0⟩,0.4,0.6
+Bit-Flip,|0⟩,0.5,0.5
+Bit-Flip,|1⟩,0.0,1.0
+Bit-Flip,|1⟩,0.01,0.99
+Bit-Flip,|1⟩,0.02,0.98
+Bit-Flip,|1⟩,0.05,0.95
+Bit-Flip,|1⟩,0.1,0.9
+Bit-Flip,|1⟩,0.15,0.85
+Bit-Flip,|1⟩,0.2,0.8
+Bit-Flip,|1⟩,0.3,0.7
+Bit-Flip,|1⟩,0.4,0.6
+Bit-Flip,|1⟩,0.5,0.5
+Bit-Flip,|+⟩,0.0,1.0
+Bit-Flip,|+⟩,0.01,1.0
+Bit-Flip,|+⟩,0.02,1.0
+Bit-Flip,|+⟩,0.05,1.0
+Bit-Flip,|+⟩,0.1,1.0
+Bit-Flip,|+⟩,0.15,1.0
+Bit-Flip,|+⟩,0.2,1.0
+Bit-Flip,|+⟩,0.3,1.0
+Bit-Flip,|+⟩,0.4,1.0
+Bit-Flip,|+⟩,0.5,1.0
+Depolarizing,|0⟩,0.0,1.0
+Depolarizing,|0⟩,0.01,0.995
+Depolarizing,|0⟩,0.02,0.99
+Depolarizing,|0⟩,0.05,0.975
+Depolarizing,|0⟩,0.1,0.95
+Depolarizing,|0⟩,0.15,0.925
+Depolarizing,|0⟩,0.2,0.9
+Depolarizing,|0⟩,0.3,0.85
+Depolarizing,|0⟩,0.4,0.8
+Depolarizing,|0⟩,0.5,0.75
+Depolarizing,|1⟩,0.0,1.0
+Depolarizing,|1⟩,0.01,0.995
+Depolarizing,|1⟩,0.02,0.99
+Depolarizing,|1⟩,0.05,0.975
+Depolarizing,|1⟩,0.1,0.95
+Depolarizing,|1⟩,0.15,0.925
+Depolarizing,|1⟩,0.2,0.9
+Depolarizing,|1⟩,0.3,0.85
+Depolarizing,|1⟩,0.4,0.8
+Depolarizing,|1⟩,0.5,0.75
+Depolarizing,|+⟩,0.0,1.0
+Depolarizing,|+⟩,0.01,0.995
+Depolarizing,|+⟩,0.02,0.99
+Depolarizing,|+⟩,0.05,0.975
+Depolarizing,|+⟩,0.1,0.95
+Depolarizing,|+⟩,0.15,0.925
+Depolarizing,|+⟩,0.2,0.9
+Depolarizing,|+⟩,0.3,0.85
+Depolarizing,|+⟩,0.4,0.8
+Depolarizing,|+⟩,0.5,0.75
+Amplitude Damping,|0⟩,0.0,1.0
+Amplitude Damping,|0⟩,0.01,1.0
+Amplitude Damping,|0⟩,0.02,1.0
+Amplitude Damping,|0⟩,0.05,1.0
+Amplitude Damping,|0⟩,0.1,1.0
+Amplitude Damping,|0⟩,0.15,1.0
+Amplitude Damping,|0⟩,0.2,1.0
+Amplitude Damping,|0⟩,0.3,1.0
+Amplitude Damping,|0⟩,0.4,1.0
+Amplitude Damping,|0⟩,0.5,1.0
+Amplitude Damping,|1⟩,0.0,1.0
+Amplitude Damping,|1⟩,0.01,0.99
+Amplitude Damping,|1⟩,0.02,0.98
+Amplitude Damping,|1⟩,0.05,0.95
+Amplitude Damping,|1⟩,0.1,0.9
+Amplitude Damping,|1⟩,0.15,0.85
+Amplitude Damping,|1⟩,0.2,0.8
+Amplitude Damping,|1⟩,0.3,0.7
+Amplitude Damping,|1⟩,0.4,0.6
+Amplitude Damping,|1⟩,0.5,0.5
+Amplitude Damping,|+⟩,0.0,1.0
+Amplitude Damping,|+⟩,0.01,0.9975
+Amplitude Damping,|+⟩,0.02,0.995
+Amplitude Damping,|+⟩,0.05,0.9873
+Amplitude Damping,|+⟩,0.1,0.9743
+Amplitude Damping,|+⟩,0.15,0.961
+Amplitude Damping,|+⟩,0.2,0.9472
+Amplitude Damping,|+⟩,0.3,0.9183
+Amplitude Damping,|+⟩,0.4,0.8873
+Amplitude Damping,|+⟩,0.5,0.8536
