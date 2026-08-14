@@ -29,6 +29,16 @@ Bit-Flip,|+⟩,0.2,1.0
 Bit-Flip,|+⟩,0.3,1.0
 Bit-Flip,|+⟩,0.4,1.0
 Bit-Flip,|+⟩,0.5,1.0
+Bit-Flip,|−⟩,0.0,1.0
+Bit-Flip,|−⟩,0.01,1.0
+Bit-Flip,|−⟩,0.02,1.0
+Bit-Flip,|−⟩,0.05,1.0
+Bit-Flip,|−⟩,0.1,1.0
+Bit-Flip,|−⟩,0.15,1.0
+Bit-Flip,|−⟩,0.2,1.0
+Bit-Flip,|−⟩,0.3,1.0
+Bit-Flip,|−⟩,0.4,1.0
+Bit-Flip,|−⟩,0.5,1.0
 Depolarizing,|0⟩,0.0,1.0
 Depolarizing,|0⟩,0.01,0.995
 Depolarizing,|0⟩,0.02,0.99
@@ -59,6 +69,16 @@ Depolarizing,|+⟩,0.2,0.9
 Depolarizing,|+⟩,0.3,0.85
 Depolarizing,|+⟩,0.4,0.8
 Depolarizing,|+⟩,0.5,0.75
+Depolarizing,|−⟩,0.0,1.0
+Depolarizing,|−⟩,0.01,0.995
+Depolarizing,|−⟩,0.02,0.99
+Depolarizing,|−⟩,0.05,0.975
+Depolarizing,|−⟩,0.1,0.95
+Depolarizing,|−⟩,0.15,0.925
+Depolarizing,|−⟩,0.2,0.9
+Depolarizing,|−⟩,0.3,0.85
+Depolarizing,|−⟩,0.4,0.8
+Depolarizing,|−⟩,0.5,0.75
 Amplitude Damping,|0⟩,0.0,1.0
 Amplitude Damping,|0⟩,0.01,1.0
 Amplitude Damping,|0⟩,0.02,1.0
@@ -89,3 +109,13 @@ Amplitude Damping,|+⟩,0.2,0.9472
 Amplitude Damping,|+⟩,0.3,0.9183
 Amplitude Damping,|+⟩,0.4,0.8873
 Amplitude Damping,|+⟩,0.5,0.8536
+Amplitude Damping,|−⟩,0.0,1.0
+Amplitude Damping,|−⟩,0.01,0.9975
+Amplitude Damping,|−⟩,0.02,0.995
+Amplitude Damping,|−⟩,0.05,0.9873
+Amplitude Damping,|−⟩,0.1,0.9743
+Amplitude Damping,|−⟩,0.15,0.961
+Amplitude Damping,|−⟩,0.2,0.9472
+Amplitude Damping,|−⟩,0.3,0.9183
+Amplitude Damping,|−⟩,0.4,0.8873
+Amplitude Damping,|−⟩,0.5,0.8536
